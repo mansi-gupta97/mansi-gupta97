@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**mansi-gupta97/mansi-gupta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mansi Gupta</h1>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-Here are some ideas to get you started:
+- 👨‍💻 You can also check out my portfolio at [https://github.com/mansi19972020](https://https://github.com/mansi19972020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **gmansi908@gmail.com**
+
+- ⚡ Fun fact **I think I am sensible XD**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+[![Linkedin Badge](https://www.linkedin.com/in/mansi-gupta-44758a129)
+</p>
+
+
+
+
+
+
+
